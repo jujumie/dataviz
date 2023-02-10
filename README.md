@@ -1,2 +1,2 @@
 # dataviz
-Data Visualization in Tableau, Qlik, and Power BI
+These are some data visualization projects conducted using Tableau, Qlik, and Power BI.
